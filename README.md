@@ -1,9 +1,7 @@
   ### Hi there! 👋
- <div align="center">
 - 🔭 I'm currently studying
 - 📖 I'm studying 𝗝𝗮𝘃𝗮, 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁 and 𝗣𝘆𝘁𝗵𝗼𝗻
 - 🤔 I’m looking for help with 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁
-</div>
 
 <a href="https://github.com/gabelemos">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabelemos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
