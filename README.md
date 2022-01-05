@@ -1,4 +1,7 @@
+<div align="center">  
   ### Hi there! 👋
+</div>
+
 - 🔭 I'm currently studying
 - 📖 I'm studying 𝗝𝗮𝘃𝗮, 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁 and 𝗣𝘆𝘁𝗵𝗼𝗻
 - 🤔 I’m looking for help with 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁
