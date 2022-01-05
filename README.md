@@ -1,6 +1,4 @@
-<div align="center">  
-  ### Hi there! 👋
-</div>
+## Hi There! 
 
 - 🔭 I'm currently studying
 - 📖 I'm studying 𝗝𝗮𝘃𝗮, 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁 and 𝗣𝘆𝘁𝗵𝗼𝗻
@@ -8,7 +6,7 @@
 
 <a href="https://github.com/gabelemos">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabelemos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabelemos&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabelemos&layout=compact&langs_count=7&theme=dark"/>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Lemos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
