@@ -4,7 +4,7 @@
 - 🤔 I’m looking for help with 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁
 
 <a href="https://github.com/gabelemos">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabelemos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabelemos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabelemos&layout=compact&langs_count=7&theme=dark"/>
   
 <div style="display: inline_block"><br>
