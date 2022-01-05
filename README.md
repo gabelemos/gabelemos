@@ -1,4 +1,4 @@
-## Hi There! 
+## Hi There! 🌒👨‍🚀
 
 - 🔭 I'm currently studying
 - 📖 I'm studying 𝗝𝗮𝘃𝗮, 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁 and 𝗣𝘆𝘁𝗵𝗼𝗻
@@ -19,6 +19,6 @@
   ##
  
 <div> 
- <a href="https://discord.gg/𝙇𝙀𝙈𝙊𝙎/𝙎𝙥𝙖𝙘𝙚 ツ#8527" target="_blank"><img src="https://img.shields.io/badge/>-𝗗𝗜𝗦𝗖𝗢𝗥𝗗-blue?style=flat-square&logo=discord" target="_blank"></a> 
+ <a href="https://discord.gg/7YrRYSbb" target="_blank"><img src="https://img.shields.io/badge/>-𝗗𝗜𝗦𝗖𝗢𝗥𝗗-blue?style=flat-square&logo=discord" target="_blank"></a> 
   <a href = "mailto:gabriellemoscardim@gmail.com"><img src="https://img.shields.io/badge/>-𝗚𝗠𝗔𝗜𝗟-red?style=flat-square&logo=gmail" target="_blank"></a>
  
