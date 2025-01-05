@@ -1,8 +1,8 @@
 ## Eae! 🌒👨‍🚀
 
-- 🔭 Atualmente, sou um estudante no 3º ano do ensino médio-técnico
+- 🔭 Técnico em Desenvolvimento de Software na Escola Técnica Estadual Ministro Fernando Lyra
 - 📖 Ando estudando bastante de Web3, Python, C#...
-- 🤔 Buscando novas oportunidades!
+- 🤔 Buscando oportunidades de trabalho!
 
 <a href="https://github.com/gabelemos">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabelemos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
