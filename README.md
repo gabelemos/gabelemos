@@ -14,7 +14,7 @@
   <img align="center" alt="Lemos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Lemos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="right" alt="Lemos-Gif" height="150" style="border-radius:50px;" 
-  src="https://media.discordapp.net/attachments/718164579921952773/928421449767735336/LemosGit.gif?width=700&height=700">
+  src="https://drive.google.com/file/d/1oI7l9eirOQsSpO0hz8jX68wBKnz5la9o/view?usp=sharing">
 </div>
  
   ##
