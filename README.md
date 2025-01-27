@@ -1,7 +1,8 @@
-## Eae! 🌒👨‍🚀
+## Oi! 🌒👨‍🚀
 
-- 🔭 Técnico em Desenvolvimento de Software na Escola Técnica Estadual Ministro Fernando Lyra
-- 📖 Ando estudando bastante de Web3, Python, C#...
+- 🔭 Técnico em Desenvolvimento de Software
+- 📖 Ando estudando bastante de Web3, Python, PHP e algumas outras!
+- Trabalhando atualmente na OS Smart System <a href="https://ossmartsystem.com/site/">Clique e veja o site da Smart System!<a>
 - 🤔 Buscando oportunidades de trabalho!
 
 <a href="https://github.com/gabelemos">
