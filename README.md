@@ -21,5 +21,5 @@
 <div> 
   <a href="https://discord.gg/7YrRYSbb" target="_blank"><img src="https://img.shields.io/badge/>-𝗗𝗜𝗦𝗖𝗢𝗥𝗗-blue?style=flat-square&logo=discord" target="_blank"></a> 
   <a href = "mailto:gabriellemoscardim@gmail.com"><img src="https://img.shields.io/badge/>-𝗚𝗠𝗔𝗜𝗟-red?style=flat-square&logo=gmail" target="_blank"></a>
-  <img align="right" alt="Lemos-Gif" height="80" width="80" style="border-radius:50px;" src="https://i.postimg.cc/HL5gfmqL/LemosGit.gif">
+  <img align="right" alt="Lemos-Gif" height="100" width="100" style="border-radius:50px;" src="https://i.postimg.cc/HL5gfmqL/LemosGit.gif">
 </div>
