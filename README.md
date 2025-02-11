@@ -2,7 +2,7 @@
 
 - 🔭 Técnico em Desenvolvimento de Software
 - 📖 Ando estudando bastante de Web3, Python, PHP e algumas outras!
-- Trabalhando atualmente na OS Smart System <a href="https://ossmartsystem.com/site/">Clique e veja o site da Smart System!<a>
+- Trabalhando atualmente na OS Smart System <a target="_blank" href="https://ossmartsystem.com/site/">Clique e veja o site da Smart System!<a>
 - 🤔 Buscando oportunidades na área!
 
 <a href="https://github.com/gabelemos">
