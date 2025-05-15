@@ -2,7 +2,7 @@
 
 - 🔭 Técnico em Desenvolvimento de Software
 - 📖 Estudando Análise e Desenvolvimento de Sistemas na UNIFAVIP - Caruaru
-- 💼 Trabalhando atualmente na OS Smart System <a target="_blank" href="https://ossmartsystem.com/site/">Clique e veja o site da Smart System!<a>
+- 💼 Trabalhando atualmente no Grupo Asa Branca <a target="_blank" href="https://br.linkedin.com/company/grupo-asa-brancape">Clique e veja o site da Smart System!<a>
 - 🤔 Constante evolução na área e com foco em empreender!
 
 <a href="https://github.com/gabelemos">
