@@ -1,25 +1,63 @@
-## Oi! 🌒👨‍🚀
+<img height="300px" width="100%" alt="github" src="https://github.com/user-attachments/assets/978f94fd-7be1-4c3c-9cea-496ed9bdf312" />
 
-- 🔭 Técnico em Desenvolvimento de Software
-- 📖 Estudando Análise e Desenvolvimento de Sistemas na UNIFAVIP - Caruaru
-- 💼 Trabalhando atualmente no Grupo Asa Branca <a target="_blank" href="https://br.linkedin.com/company/grupo-asa-brancape">Clique e visite o nosso LinkedIn!<a>
-- 🤔 Constante evolução na área e com foco em empreender!
+<hr>
 
-<a href="https://github.com/gabelemos">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabelemos&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabelemos&layout=compact&langs_count=7&theme=dark"/>
+<div align="center"> 
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Lemos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lemos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Lemos-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-  <img align="center" alt="Lemos-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nata+Sans&weight=800&letterSpacing=0.5px&duration=4000&pause=500&color=0082FF&center=true&vCenter=true&width=435&lines=system.out.println(%22Hello+World%22);Bem+vindo+ao+meu+perfil+do+Github!)](https://git.io/typing-svg)
+
 </div>
+
+<hr>
+<br>
+
+<div>
+<ul style="font-size: 16px;">
+  <li>Atualmente formando em Análise e Desenvolvimento de Sistemas na <a target="_blank" href="https://www.wyden.com.br/unidades/unifavip">Unifavip Wyden</a> 📚💻</li>
+  <li>Estágiario de Tecnologia no <a target="_blank" href="https://www.linkedin.com/company/grupo-asa-brancape/">Grupo Asa Branca</a> 💙🕊</li>
+  <li>"Nadando há alguns anos no oceano da programação..." 👨‍💻🌌</li>
+</ul>
+</div>
+
+<div>
   
-<!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) -->
-  ##
+<div align="center">
+  <h3>˗ˏˋ Linguagens ˎˊ˗</h3>
 
+  [![My Skills](https://skillicons.dev/icons?i=c,python,php,java,js,html,css,mysql&theme=light)](https://github.com/gabelemos)
+  <h3>˗ˏˋ Ferramentas ˎˊ˗</h3>
+  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
   <br>
+  <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-E34F26?logo=git&logoColor=white&style=for-the-badge">
+</div>
 
- [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cardimlemos/)[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gabriellemoscardim@gmail.com)[![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktree.com/lemosdev)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabelemos/)
-  <img align="right" alt="Lemos-Gif" height="100" width="100" style="border-radius:50px;" src="https://i.postimg.cc/HL5gfmqL/LemosGit.gif">
+<br>
+<hr>
+<br>
+
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1;">
+    <img src="https://camo.githubusercontent.com/b5a208c33938e2f6077ec3d6663564d603bbb0a2bdbd1476fbca3b3530611873/68747470733a2f2f692e706f7374696d672e63632f484c3567666d714c2f4c656d6f734769742e676966" width="120px">
+  </div>
+
+  <div align="right">
+    <h3>☎︎ Manda um oi!</h3>
+    <a href="https://www.linkedin.com/in/gabelemos">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://www.instagram.com/cardimlemos">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="mailto:gabriellemoscardim@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+  </div>
+</div>
+
+<br>
