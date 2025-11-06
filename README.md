@@ -14,7 +14,7 @@
 <div>
 <ul style="font-size: 16px;">
   <li>Atualmente formando em Análise e Desenvolvimento de Sistemas na <a target="_blank" href="https://www.wyden.com.br/unidades/unifavip">Unifavip Wyden</a> 📚💻</li>
-  <li>Estágiario de Tecnologia no <a target="_blank" href="https://www.linkedin.com/company/grupo-asa-brancape/">Grupo Asa Branca</a> 💙🕊</li>
+  <li>Assistente de Desenvolvimento de Software no <a target="_blank" href="https://www.linkedin.com/company/grupo-asa-brancape/">Grupo Asa Branca</a> 💙🕊</li>
   <li>"Nadando há alguns anos no oceano da programação..." 👨‍💻🌌</li>
 </ul>
 </div>
